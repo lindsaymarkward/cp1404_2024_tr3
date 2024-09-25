@@ -1,3 +1,4 @@
+"""CP1404 internal seminar 1."""
 # number = int(input("Number: "))
 # if number < 0:
 #     print(f"{number} is negative")
